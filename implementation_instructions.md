@@ -3,7 +3,7 @@
 
 # Instructions
 1. Explore and read through the code base paying close attention to <areas to pay close attention to>. Use sub-agents to investigate any questions you have or any areas of the code base you'd like to learn more about.
-2. Think about would would need to be changed in order to acomplish the todoist page navigation described in the task above. Use sub-agents to review your design. Do not write any code at this stage.
+2. Think about would would need to be changed in order to acomplish the task outlined above. Use sub-agents to review your design. Do not write any code at this stage.
 3. Present your design to me and wait for me to explicitly approve it.
 4. Follow a test-driven development approach to implement your design.
    1. Implement the tests for your design
